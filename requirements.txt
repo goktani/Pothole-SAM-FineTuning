@@ -1,0 +1,7 @@
+numpy
+opencv-python
+matplotlib
+seaborn
+torch>=1.7.0
+torchvision>=0.8.1
+git+https://github.com/facebookresearch/segment-anything.git
