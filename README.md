@@ -1,6 +1,6 @@
 # 🛣️ Pothole-SAM-FineTuning: Segment Anything Model for Road Safety
 
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/goktani/YOUR-NOTEBOOK-LINK-HERE)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/goktani/pothole-sam-smart-road-safety-with-foundation-mod)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
