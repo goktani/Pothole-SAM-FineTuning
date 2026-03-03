@@ -42,7 +42,7 @@ The evaluation pipeline generates a comprehensive dashboard that computes:
 2. Dice Coefficient (F1-Score)
 3. Pixel Accuracy
 
-![Evaluation Dashboard](image.png)
+![Evaluation Dashboard](images.png)
 
 ## 🤝 Let's Connect
 ##### Kaggle: [@goktani](https://www.kaggle.com/goktani)
